@@ -4,7 +4,7 @@ Executive Finance Analytics Dashboard built in Power BI featuring KPI reporting,
 # 📊 Finance Analysis Dashboard | Power BI
 
 ## Overview
-This Power BI dashboard provides interactive financial analytics to monitor transaction performance, customer behavior, fees, taxes, and profitability. It enables stakeholders to analyze trends, identify high-performing customer segments, and make data-driven business decisions. 【1-f3b043】
+This Power BI dashboard provides interactive financial analytics to monitor transaction performance, customer behavior, fees, taxes, and profitability. It enables stakeholders to analyze trends, identify high-performing customer segments, and make data-driven business decisions.
 
 ## Key Features
 - Dynamic filtering by Year, Occupation, Category, and Metric
@@ -15,7 +15,7 @@ This Power BI dashboard provides interactive financial analytics to monitor tran
 - State-wise Transaction Analysis
 - Transaction Type Analysis using Matrix/Heatmap
 - Gender-based Contribution Analysis
-- Detailed Transaction Records Page for drill-down analysis 【1-f3b043】
+- Detailed Transaction Records Page for drill-down analysis
 
 ## Tools & Technologies
 - Power BI Desktop
@@ -39,7 +39,7 @@ This Power BI dashboard provides interactive financial analytics to monitor tran
 - Identify top-performing customer segments and states
 - Analyze transaction success rates and profitability
 - Understand customer demographics and transaction patterns
-- Monitor Year-over-Year business performance improvements 【1-f3b043】
+- Monitor Year-over-Year business performance improvements
 
 ## Skills Demonstrated
 - Data Analysis
@@ -52,9 +52,13 @@ This Power BI dashboard provides interactive financial analytics to monitor tran
 - Business Intelligence
 
 ## Project Files
-- Power BI Dashboard (.pbix)
-- Dataset
-- Business Requirements Document
-- Dashboard Screenshots
+- Power BI Dashboard (.pbix)[drive-download-20260725T053404Z-1-001.zip](https://github.com/user-attachments/files/30391507/drive-download-20260725T053404Z-1-001.zip)
+- Dataset [finance_transactions.csv](https://github.com/user-attachments/files/30391516/finance_transactions.csv)
+[customers.csv](https://github.com/user-attachments/files/30391514/customers.csv)
+
+- Business Requirements Document[Business Requirements.docx](https://github.com/user-attachments/files/30391509/Business.Requirements.docx)
+
+- Dashboard Screenshots [FinSight_Image.pdf](https://github.com/user-attachments/files/30391518/FinSight_Image.pdf)
+
 
 ⭐ If you found this project useful, feel free to star the repository.
