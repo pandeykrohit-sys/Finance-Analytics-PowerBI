@@ -27,11 +27,12 @@ This Power BI dashboard provides interactive financial analytics to monitor tran
 ## Dashboard Preview
 
 ### Overview Dashboard
-[FinSight_Image.pdf](https://github.com/user-attachments/files/30391399/FinSight_Image.pdf)
+<img width="1552" height="1050" alt="Overview Dashboard" src="https://github.com/user-attachments/assets/afe29bda-4bfa-4276-90af-af894de509c2" />
 
 
 ### Transaction Details Dashboard
-(Add Screenshot Here)
+<img width="1463" height="993" alt="Transaction Details Dashboard" src="https://github.com/user-attachments/assets/598d4fd3-8b2d-4f64-9487-94c43cdc8a52" />
+
 
 ## Business Insights
 - Track overall financial performance and transaction growth
